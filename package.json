@@ -40,6 +40,17 @@
       "last 1 safari version"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PascalPascarella/React-app_proj.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PascalPascarella/React-app_proj/issues"
+  },
+  "homepage": "https://github.com/PascalPascarella/React-app_proj#readme",
   "devDependencies": {
     "autoprefixer": "^10.1.0",
     "concat": "^1.0.3",
